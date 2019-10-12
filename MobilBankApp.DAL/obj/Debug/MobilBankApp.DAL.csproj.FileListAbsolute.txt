@@ -1,0 +1,13 @@
+C:\Users\ogzha\source\repos\MobilBankApp\MobilBankApp.DAL\obj\Debug\MobilBankApp.DAL.csprojAssemblyReference.cache
+C:\Users\ogzha\source\repos\MobilBankApp\MobilBankApp.DAL\bin\Debug\MobilBankApp.DAL.dll.config
+C:\Users\ogzha\source\repos\MobilBankApp\MobilBankApp.DAL\bin\Debug\MobilBankApp.DAL.dll
+C:\Users\ogzha\source\repos\MobilBankApp\MobilBankApp.DAL\bin\Debug\MobilBankApp.DAL.pdb
+C:\Users\ogzha\source\repos\MobilBankApp\MobilBankApp.DAL\bin\Debug\EntityFramework.dll
+C:\Users\ogzha\source\repos\MobilBankApp\MobilBankApp.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ogzha\source\repos\MobilBankApp\MobilBankApp.DAL\bin\Debug\EntityFramework.xml
+C:\Users\ogzha\source\repos\MobilBankApp\MobilBankApp.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ogzha\source\repos\MobilBankApp\MobilBankApp.DAL\obj\Debug\MobilBankApp.DAL.csproj.CopyComplete
+C:\Users\ogzha\source\repos\MobilBankApp\MobilBankApp.DAL\obj\Debug\MobilBankApp.DAL.dll
+C:\Users\ogzha\source\repos\MobilBankApp\MobilBankApp.DAL\obj\Debug\MobilBankApp.DAL.pdb
+C:\Users\ogzha\source\repos\MobilBankApp\MobilBankApp.DAL\obj\Debug\MobilBankApp.DAL.Migrations.og.resources
+C:\Users\ogzha\source\repos\MobilBankApp\MobilBankApp.DAL\obj\Debug\MobilBankApp.DAL.csproj.GenerateResource.cache
